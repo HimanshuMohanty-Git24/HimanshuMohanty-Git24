@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/codinghima" target="blank"><img src="https://img.shields.io/twitter/follow/codinghima?logo=twitter&style=for-the-badge" alt="codinghima" /></a> </p>
 
-- 🌱 I’m currently learning **DSA(C++),Web Dev(HTML, CSS, JS)**
+- 🌱 I’m currently learning **DSA(C++),MERN STACK💻**
 
 - 📫 How to reach me **codehimanshu24@gmail.com**
 
-- ⚡ Fun fact **In my spare time, I like to create projects that have real-world applications**
+- ⚡ Fun fact **I love to read about Geopolitics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
