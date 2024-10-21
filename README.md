@@ -1,4 +1,3 @@
-<h1 align="center">जय श्री कृष्ण 🦚🕉️🪷</h1>
 <h2 align="center">नमस्ते 🙏, I'm Himanshu Mohanty</h2>
 <h4 align="center">I’m all about creating cool stuff—coding, building, and shipping apps that actually help people in the real world, across all kinds of domains</h3>
 
@@ -6,16 +5,6 @@
 * **🤖 AI, ML, and DL Enthusiast**
 * **🌐 MERN Stack for Frontend and Backend Development**
 * **🐍 Python Developer with a love for Flask and Streamlit**
-
-🕉️ Guided by the wisdom of Bhagavad Gita
-
-> कर्मण्येवाधिकारस्ते मा फलेषु कदाचन<br>
-> *Karmanye vadhikaraste Ma Phaleshu Kadachana*
-
-**Meaning:** You have the right to work only, but never to its fruits. Let not the fruits of action be your motive, nor let your attachment be to inaction.
-
-
-
 
 ## 🌐 Socials:
 <a href="https://twitter.com/codinghima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codinghima" height="30" width="40" /></a>
