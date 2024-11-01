@@ -2,6 +2,7 @@
 <h4 align="center">I’m all about creating cool stuff—coding, building, and shipping apps that actually help people in the real world, across all kinds of domains</h3>
 
 
+
 * **🌟 Generative AI (GenAI) Apps**
 * **🤖 AI, ML, and DL Enthusiast**
 * **🌐 MERN Stack for Frontend and Backend Development**
